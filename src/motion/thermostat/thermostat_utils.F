@@ -3,7 +3,8 @@ sagnik second change at 14:36
 
 
 
-myself siddharth 
+myself siddharth
+my self sagnik 
 !--------------------------------------------------------------------------------------------------!
 !   CP2K: A general program to perform molecular dynamics simulations                              !
 !   Copyright 2000-2026 CP2K developers group <https://cp2k.org>                                   !
